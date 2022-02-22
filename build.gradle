@@ -17,7 +17,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-group = "mod.${author}.${modid}"
+group = "com.github.kayladillo.${modid}"
 version = "${mod_version}-${minecraft_version}"
 archivesBaseName = modid
 
@@ -142,7 +142,7 @@ jar {
 shadowJar {
     classifier = ''
     configurations = [project.configurations.shade]
-    relocate 'com.tterrag.registrate', "com.github.${author}.${modid}.repack.registrate"
+    relocate 'com.tterrag.registrate', "com.github.kayladillo.${modid}.repack.registrate"
 }
 
 reobf {

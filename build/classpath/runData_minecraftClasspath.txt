@@ -1,4 +1,4 @@
-/home/anthony/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18.1-39.0.5_mapped_official_1.18.1/forge-1.18.1-39.0.5_mapped_official_1.18.1.jar
+/home/anthony/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18.1-39.0.5_mapped_official_1.18.1/forge-1.18.1-39.0.5_mapped_official_1.18.1-recomp.jar
 /home/anthony/.gradle/caches/forge_gradle/minecraft_repo/versions/1.18.1/client-extra.jar
 /home/anthony/.gradle/caches/modules-2/files-2.1/net.minecraftforge/javafmllanguage/1.18.1-39.0.5/391ffb2b49f0df866ae8e4023be5c259dd24f0c8/javafmllanguage-1.18.1-39.0.5.jar
 /home/anthony/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mclanguage/1.18.1-39.0.5/7373bfe0fe2b2d35d4b99d6c4067c9d17d68b87f/mclanguage-1.18.1-39.0.5.jar
