@@ -1,0 +1,15 @@
+Java Launcher: /usr/lib/jvm/java-17-oracle/bin/java
+Arguments: '--task, SRG_TO_MCP, --input, /home/anthony/.gradle/caches/modules-2/files-2.1/com.tterrag.registrate/Registrate/MC1.18-1.0.21/580aa92f0f609b3db996e03ac5e7b5f7f1064941/Registrate-MC1.18-1.0.21.jar, --output, /home/anthony/.gradle/caches/forge_gradle/deobf_dependencies/com/tterrag/registrate/Registrate/MC1.18-1.0.21_mapped_official_1.18.1/Registrate-MC1.18-1.0.21_mapped_official_1.18.1.jar, --mcp, /home/anthony/.gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.18.1/mapping-1.18.1-mapping.zip, --strip-signatures'
+Classpath:
+ - /home/anthony/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.2.8/installertools-1.2.8-fatjar.jar
+Working directory: /mnt/storage/Documents/personal/minecraft/spelunkeries/build/_RenameSrg2Mcp_-1864854786
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  /home/anthony/.gradle/caches/modules-2/files-2.1/com.tterrag.registrate/Registrate/MC1.18-1.0.21/580aa92f0f609b3db996e03ac5e7b5f7f1064941/Registrate-MC1.18-1.0.21.jar
+Output: /home/anthony/.gradle/caches/forge_gradle/deobf_dependencies/com/tterrag/registrate/Registrate/MC1.18-1.0.21_mapped_official_1.18.1/Registrate-MC1.18-1.0.21_mapped_official_1.18.1.jar
+MCP:    /home/anthony/.gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.18.1/mapping-1.18.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete
